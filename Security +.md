@@ -1,1 +1,1 @@
-enter the discount code "GoogleSecurity2023" to buy a voucher so you can take your exam (a $117 value).
+Discount code "GoogleSecurity2023"
