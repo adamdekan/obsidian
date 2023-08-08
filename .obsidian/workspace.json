@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security +.md",
+                "file": "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "1600",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security +.md",
+                "file": "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security +.md",
+                "file": "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security +.md"
+                "file": "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md"
               }
             }
           }
@@ -146,8 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a370bded1a7c80dd",
+  "active": "8121e831d87aff6e",
   "lastOpenFiles": [
+    "Awesome-Cybersecurity-Handbooks/handbooks/10_post_exploitation.md",
+    "PayloadsAllTheThings/Methodology and Resources/Hash Cracking.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
+    "PayloadsAllTheThings/LaTeX Injection/README.md",
+    "Security +.md",
     "README.md",
     "Notes.md",
     "nmap_cheat_sheet.md",
@@ -163,18 +169,13 @@
     "Academy HTB",
     "PayloadsAllTheThings/README.md",
     "Vulnhub/DG 1 - Drupal + Debian 3.2.md",
-    "Security +.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/iot.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/hardware.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/exploitation.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/cve.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/06_wireless_attacks.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/03_web_application_analysis.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/01_information_gathering.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/02_vulnerability_analysis.md",
-    "PayloadsAllTheThings/Server Side Template Injection/README.md",
-    "PayloadsAllTheThings/SQL Injection/SQLite Injection.md",
     "PayloadsAllTheThings/CSRF Injection/Images/CSRF-CheatSheet.png",
     "PayloadsAllTheThings/Upload Insecure Files/Picture ImageMagick/imagetragik1_payload_imageover_reverse_shell_devtcp.jpg",
     "Vulnhub",
