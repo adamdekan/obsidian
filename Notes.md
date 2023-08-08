@@ -1,0 +1,3 @@
+- `dirsearch` is useful for content discovery
+- `dirbuster` is with GUI
+- 
