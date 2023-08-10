@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nmap_cheat_sheet.md",
+                "file": "Notes.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "77831730477e6a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hack The Box/PC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nmap_cheat_sheet.md",
+                "file": "Hack The Box/PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nmap_cheat_sheet.md",
+                "file": "Hack The Box/PC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nmap_cheat_sheet.md"
+                "file": "Hack The Box/PC.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a370bded1a7c80dd",
+  "active": "46fe2336f15d5d22",
   "lastOpenFiles": [
+    "Notes.md",
+    "Hack The Box/PC.md",
+    "nmap_cheat_sheet.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/01_information_gathering.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/10_post_exploitation.md",
@@ -155,8 +171,6 @@
     "PayloadsAllTheThings/LaTeX Injection/README.md",
     "Security +.md",
     "README.md",
-    "Notes.md",
-    "nmap_cheat_sheet.md",
     "Academy HTB/nmap.md",
     "Academy HTB/metasploit.md",
     "Hack The Box/Active.md",
@@ -174,7 +188,6 @@
     "Awesome-Cybersecurity-Handbooks/handbooks/exploitation.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/cve.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/06_wireless_attacks.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/03_web_application_analysis.md",
     "PayloadsAllTheThings/CSRF Injection/Images/CSRF-CheatSheet.png",
     "PayloadsAllTheThings/Upload Insecure Files/Picture ImageMagick/imagetragik1_payload_imageover_reverse_shell_devtcp.jpg",
     "Vulnhub",
