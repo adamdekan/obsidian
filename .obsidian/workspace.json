@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "77831730477e6a4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hack The Box/PC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hack The Box/PC.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hack The Box/PC.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hack The Box/PC.md"
+                "file": "Notes.md"
               }
             }
           }
@@ -159,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46fe2336f15d5d22",
+  "active": "a370bded1a7c80dd",
   "lastOpenFiles": [
-    "Notes.md",
     "Hack The Box/PC.md",
+    "Notes.md",
     "nmap_cheat_sheet.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/01_information_gathering.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
