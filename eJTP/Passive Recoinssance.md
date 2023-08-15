@@ -6,3 +6,13 @@ buildWith, Wappalyzer -  add-ons for Firefox to get info of frontend/backend
 HTTrack - copy the whole website
 
 `whois`, https://who.is/ - name servers etc.
+https://sitereport.netcraft.com/
+
+**Best DNS lookup:**
+www.dnsdumpster.com
+
+**Firewall detection and idenfitifaction**
+`wafw00f` 
+
+Passive domain recon:
+Sublist3r 
