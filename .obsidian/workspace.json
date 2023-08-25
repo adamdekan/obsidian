@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1725101b87874bfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eJTP/Metasploit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d28673988ebc4345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eJTP/SMTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "43abaaba9830a3af",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "eJTP/SMTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "eJTP/SMTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "eJTP/SMTP.md"
               }
             }
           }
@@ -146,11 +172,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a370bded1a7c80dd",
+  "active": "d28673988ebc4345",
   "lastOpenFiles": [
+    "eJTP/Metasploit.md",
+    "eJTP/SMTP.md",
+    "Notes.md",
     "nmap_cheat_sheet.md",
     "README.md",
-    "Notes.md",
     "eJTP/Active Recoinessance.md",
     "Security +.md",
     "eJTP/Passive Recoinssance.md",
@@ -174,8 +202,6 @@
     "PayloadsAllTheThings/README.md",
     "Vulnhub/DG 1 - Drupal + Debian 3.2.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/iot.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/hardware.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/exploitation.md",
     "PayloadsAllTheThings/CSRF Injection/Images/CSRF-CheatSheet.png",
     "PayloadsAllTheThings/Upload Insecure Files/Picture ImageMagick/imagetragik1_payload_imageover_reverse_shell_devtcp.jpg",
     "Vulnhub",
