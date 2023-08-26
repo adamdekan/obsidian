@@ -3,6 +3,8 @@
 ## Enumeration
 `search portscan` for inside of a machine scanning without nmap
 `use autoroute` - routing for meterpreter session
+`search cve:2015 name:name`
+`vulns`
 
 **SMB**
 ```
