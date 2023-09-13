@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/04_database_assessment.md",
-                "mode": "preview",
+                "file": "eJTP/Metasploit.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psql",
+                "query": "nmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/04_database_assessment.md",
+                "file": "eJTP/Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/04_database_assessment.md",
+                "file": "eJTP/Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/04_database_assessment.md"
+                "file": "eJTP/Metasploit.md"
               }
             }
           }
@@ -186,35 +185,36 @@
   },
   "active": "1725101b87874bfc",
   "lastOpenFiles": [
+    "Awesome-Cybersecurity-Handbooks/handbooks/01_information_gathering.md",
+    "README.md",
+    "eJTP/SMTP.md",
+    "Security +.md",
+    "Notes.md",
+    "nmap_cheat_sheet.md",
+    "Networking.md",
+    "PayloadsAllTheThings/CSRF Injection/Images/CSRF-CheatSheet.png",
+    "PayloadsAllTheThings/XSS Injection/Files/payload_in_all_known_exif_corrupted.png",
+    "PayloadsAllTheThings/XSS Injection/Files/mouseover-xss-ecs.jpeg",
+    "PayloadsAllTheThings/SQL Injection/MySQL Injection.md",
+    "eJTP/Passive Recoinssance.md",
+    "eJTP/Metasploit.md",
+    "eJTP/Active Recoinessance.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/blue_teaming.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/06_wireless_attacks.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/03_web_application_analysis.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/02_vulnerability_analysis.md",
+    "Awesome-Cybersecurity-Handbooks/README.md",
     "Academy HTB/nmap.md",
     "Academy HTB/metasploit.md",
-    "nmap_cheat_sheet.md",
-    "Security +.md",
-    "README.md",
-    "Notes.md",
-    "Networking.md",
-    "eJTP/Metasploit.md",
-    "eJTP/SMTP.md",
-    "eJTP/Active Recoinessance.md",
-    "eJTP/Passive Recoinssance.md",
+    "PayloadsAllTheThings/Methodology and Resources/Active Directory Attack.md",
+    "PayloadsAllTheThings/Methodology and Resources/Windows - Privilege Escalation.md",
+    "PayloadsAllTheThings/XXE Injection/README.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/10_post_exploitation.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/04_database_assessment.md",
     "eJTP",
     "Hack The Box/PC.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/01_information_gathering.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/10_post_exploitation.md",
-    "PayloadsAllTheThings/Methodology and Resources/Hash Cracking.md",
-    "PayloadsAllTheThings/LaTeX Injection/README.md",
-    "Hack The Box/Active.md",
-    "Hack The Box/Agile.md",
-    "Hack The Box/Beep.md",
-    "Hack The Box/Delivery.md",
-    "Hack The Box/Devel.md",
-    "Hack The Box/Inject.md",
-    "Hack The Box/SteamCloud.md",
     "Academy HTB",
-    "PayloadsAllTheThings/README.md",
-    "Vulnhub/DG 1 - Drupal + Debian 3.2.md",
-    "PayloadsAllTheThings/CSRF Injection/Images/CSRF-CheatSheet.png",
     "PayloadsAllTheThings/Upload Insecure Files/Picture ImageMagick/imagetragik1_payload_imageover_reverse_shell_devtcp.jpg",
     "Vulnhub",
     "Pasted image 20230717222650.png",
