@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/10_post_exploitation.md",
-                "mode": "source",
+                "file": "PayloadsAllTheThings/XSS Injection/README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking.md",
-                "mode": "source",
+                "file": "Awesome-Cybersecurity-Handbooks/handbooks/basics.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "setenv",
+                "query": "trace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/10_post_exploitation.md",
+                "file": "Awesome-Cybersecurity-Handbooks/handbooks/basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/10_post_exploitation.md",
+                "file": "Awesome-Cybersecurity-Handbooks/handbooks/basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/10_post_exploitation.md"
+                "file": "Awesome-Cybersecurity-Handbooks/handbooks/basics.md"
               }
             }
           }
@@ -196,37 +196,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d7369b210dd4282",
+  "active": "967dd73788986644",
   "lastOpenFiles": [
+    "nmap_cheat_sheet.md",
+    "PayloadsAllTheThings/Methodology and Resources/Reverse Shell Cheatsheet.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/basics.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/03_web_application_analysis.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/01_information_gathering.md",
+    "Networking.md",
+    "eJTP/SMTP.md",
+    "PayloadsAllTheThings/XSS Injection/README.md",
+    "PayloadsAllTheThings/Upload Insecure Files/Configuration Apache .htaccess/README.md",
+    "Notes.md",
+    "Vulnhub/Mercury.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/10_post_exploitation.md",
     "PayloadsAllTheThings/Methodology and Resources/Linux - Privilege Escalation.md",
     "PayloadsAllTheThings/Methodology and Resources/Windows - Defenses.md",
-    "Vulnhub/Mercury.md",
     "Hack The Box/Active.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/04_database_assessment.md",
     "PayloadsAllTheThings/SQL Injection/MySQL Injection.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/02_vulnerability_analysis.md",
     "Vulnhub/DG 1 - Drupal + Debian 3.2.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/03_web_application_analysis.md",
     "PayloadsAllTheThings/Upload Insecure Files/README.md",
     "PayloadsAllTheThings/Command Injection/README.md",
     "PayloadsAllTheThings/CSV Injection/README.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
-    "eJTP/SMTP.md",
     "eJTP/Metasploit.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/01_information_gathering.md",
     "README.md",
     "Security +.md",
-    "Notes.md",
-    "nmap_cheat_sheet.md",
-    "Networking.md",
     "PayloadsAllTheThings/CSRF Injection/Images/CSRF-CheatSheet.png",
     "PayloadsAllTheThings/XSS Injection/Files/payload_in_all_known_exif_corrupted.png",
     "PayloadsAllTheThings/XSS Injection/Files/mouseover-xss-ecs.jpeg",
-    "eJTP/Passive Recoinssance.md",
-    "eJTP/Active Recoinessance.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/blue_teaming.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/06_wireless_attacks.md",
-    "Awesome-Cybersecurity-Handbooks/README.md",
     "eJTP",
     "Academy HTB",
     "PayloadsAllTheThings/Upload Insecure Files/Picture ImageMagick/imagetragik1_payload_imageover_reverse_shell_devtcp.jpg",
