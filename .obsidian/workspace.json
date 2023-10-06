@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/basics.md",
+                "file": "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trace",
+                "query": "hydra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/basics.md",
+                "file": "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/basics.md",
+                "file": "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/basics.md"
+                "file": "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md"
               }
             }
           }
@@ -198,10 +198,11 @@
   },
   "active": "967dd73788986644",
   "lastOpenFiles": [
+    "Awesome-Cybersecurity-Handbooks/handbooks/04_database_assessment.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/03_web_application_analysis.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/basics.md",
     "nmap_cheat_sheet.md",
     "PayloadsAllTheThings/Methodology and Resources/Reverse Shell Cheatsheet.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/basics.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/03_web_application_analysis.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/01_information_gathering.md",
     "Networking.md",
     "eJTP/SMTP.md",
@@ -213,7 +214,6 @@
     "PayloadsAllTheThings/Methodology and Resources/Linux - Privilege Escalation.md",
     "PayloadsAllTheThings/Methodology and Resources/Windows - Defenses.md",
     "Hack The Box/Active.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/04_database_assessment.md",
     "PayloadsAllTheThings/SQL Injection/MySQL Injection.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/02_vulnerability_analysis.md",
     "Vulnhub/DG 1 - Drupal + Debian 3.2.md",
