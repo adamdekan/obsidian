@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
+                "file": "Notes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hydra",
+                "query": "polyglo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md"
+                "file": "Notes.md"
               }
             }
           }
@@ -198,8 +197,14 @@
   },
   "active": "967dd73788986644",
   "lastOpenFiles": [
-    "Awesome-Cybersecurity-Handbooks/handbooks/04_database_assessment.md",
+    "README.md",
+    "Security +.md",
+    "PayloadsAllTheThings/SQL Injection/README.md",
+    "PayloadsAllTheThings/Command Injection/README.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/08_exploitation_tools.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/03_web_application_analysis.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/04_database_assessment.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/basics.md",
     "nmap_cheat_sheet.md",
     "PayloadsAllTheThings/Methodology and Resources/Reverse Shell Cheatsheet.md",
@@ -218,12 +223,6 @@
     "Awesome-Cybersecurity-Handbooks/handbooks/02_vulnerability_analysis.md",
     "Vulnhub/DG 1 - Drupal + Debian 3.2.md",
     "PayloadsAllTheThings/Upload Insecure Files/README.md",
-    "PayloadsAllTheThings/Command Injection/README.md",
-    "PayloadsAllTheThings/CSV Injection/README.md",
-    "Awesome-Cybersecurity-Handbooks/handbooks/05_password_attacks.md",
-    "eJTP/Metasploit.md",
-    "README.md",
-    "Security +.md",
     "PayloadsAllTheThings/CSRF Injection/Images/CSRF-CheatSheet.png",
     "PayloadsAllTheThings/XSS Injection/Files/payload_in_all_known_exif_corrupted.png",
     "PayloadsAllTheThings/XSS Injection/Files/mouseover-xss-ecs.jpeg",
