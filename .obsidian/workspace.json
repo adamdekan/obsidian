@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "polyglo",
+                "query": "python ptrace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "967dd73788986644",
+  "active": "8121e831d87aff6e",
   "lastOpenFiles": [
     "README.md",
     "Security +.md",
