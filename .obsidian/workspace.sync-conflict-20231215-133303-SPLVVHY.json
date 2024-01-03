@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "17b4e13fd8d197be",
+    "type": "split",
+    "children": [
+      {
+        "id": "139f7f538226ed65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b66178f13cc471ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96a6ec81ca59f105",
+    "type": "split",
+    "children": [
+      {
+        "id": "c13c59b700fcd4c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46fe2336f15d5d22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8121e831d87aff6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "chise",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fe657586fc6d83b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5086555480957
+  },
+  "right": {
+    "id": "43abaaba9830a3af",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e0e8c924c484ced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ead2f9da8bc64e57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50f4f054dcfcc193",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8562e8af88af71ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "08c993facd029f11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "khoj:Khoj": false
+    }
+  },
+  "active": "b66178f13cc471ae",
+  "lastOpenFiles": [
+    "Secwiz.md",
+    "Untitled.canvas",
+    "Notes.md",
+    "Hack The Box/Buff/8080.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/08_exploitation_tools.md",
+    "Security+/Security Controls.md",
+    "Networking.md",
+    "Security+",
+    "eJTP/Exam.md",
+    "PayloadsAllTheThings/Methodology and Resources/Network Pivoting Techniques.md",
+    "eJTP/Windows Privilege Escalation.md",
+    "eJTP/Metasploit.md",
+    "Untitled.md",
+    "README.md",
+    "eJTP/CheatSheet.md",
+    "eJTP/Linux Post Exploitation.md",
+    "eJTP/Linux Privilege, Persistence, Hashdump.md",
+    "eJTP/Network-Based Attacks.md",
+    "eJTP/Passive Recoinssance.md",
+    "eJTP/SMTP.md",
+    "eJTP/Windows Exploitation.md",
+    "eJTP/Windows Persistence.md",
+    "eJTP/Windows Post Exploitation.md",
+    "Awesome-Cybersecurity-Handbooks/handbooks/03_web_application_analysis.md",
+    "hacktricks/pentesting-web/file-upload/README.md",
+    "hacktricks/pentesting-web/pocs-and-polygloths-cheatsheet/README.md",
+    "hacktricks/pentesting-web/sql-injection/README.md",
+    "Hack The Box/love/5986: WBEM WS-Management HTTP over TLS",
+    "Hack The Box/love/443: http protocol over TLS",
+    "Hack The Box/love",
+    "Hack The Box/hospital/636: ldap protocol over TLS",
+    "Hack The Box/hospital/443: http protocol over TLS",
+    "Hack The Box/hospital",
+    "Hack The Box/arctic",
+    "Server",
+    "PayloadsAllTheThings/Upload Insecure Files/Picture ImageMagick/convert_local_etc_passwd_html.svg",
+    "PayloadsAllTheThings/Upload Insecure Files/Picture ImageMagick/convert_local_etc_passwd.svg",
+    "Hack The Box/Buff",
+    "PayloadsAllTheThings/CSRF Injection/Images/CSRF-CheatSheet.png",
+    "PayloadsAllTheThings/XSS Injection/Files/payload_in_all_known_exif_corrupted.png",
+    "PayloadsAllTheThings/XSS Injection/Files/mouseover-xss-ecs.jpeg",
+    "PayloadsAllTheThings/Upload Insecure Files/Picture ImageMagick/imagetragik1_payload_imageover_reverse_shell_devtcp.jpg",
+    "Pasted image 20230717222650.png",
+    "Untitled 1.canvas"
+  ]
+}

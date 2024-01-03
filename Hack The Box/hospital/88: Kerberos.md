@@ -1,0 +1,10 @@
+```
+kerberos
+88
+tcp
+Kerberos
+[B_Clifford_Neuman]
+[B_Clifford_Neuman]
+2022-02-18
+[RFC4120]
+```

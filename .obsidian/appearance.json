@@ -1,7 +1,8 @@
 {
   "accentColor": "#ee9f2f",
-  "interfaceFontFamily": "Hack NF",
+  "interfaceFontFamily": "JetBrainsMono NF",
   "baseFontSize": 16,
-  "monospaceFontFamily": "Hack Nerd Font",
-  "cssTheme": "Things"
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "cssTheme": "Things",
+  "textFontFamily": "Arial"
 }

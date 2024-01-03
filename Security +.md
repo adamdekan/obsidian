@@ -1,1 +1,0 @@
-Discount code "GoogleSecurity2023"

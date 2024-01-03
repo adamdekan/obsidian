@@ -1,5 +1,4 @@
-## Nmap Cheat Sheet
-
+#cheatsheet 
 ### Basic Scanning Techniques
 
 * Scan a single target
