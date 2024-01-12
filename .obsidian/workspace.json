@@ -4,36 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "139f7f538226ed65",
+        "id": "56520666eb6cdb91",
         "type": "tabs",
         "children": [
           {
-            "id": "b66178f13cc471ae",
+            "id": "912dc735a2c48032",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack The Box/Validation.md",
+                "file": "Security+/CompTIA Security+ Acronyms.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "3c27ef3173fa35e3",
+            "id": "f82a57fa0ba03f39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Awesome-Cybersecurity-Handbooks/handbooks/03_web_application_analysis.md",
-                "mode": "preview",
+                "file": "Forest.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,12 +78,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 420.5086555480957
+    "width": 420.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "43abaaba9830a3af",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hack The Box/Validation.md",
+                "file": "Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hack The Box/Validation.md",
+                "file": "Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,33 +139,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hack The Box/Validation.md"
+                "file": "Forest.md"
               }
-            }
-          },
-          {
-            "id": "1310d9da78de161c",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "f39364721e687a2d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +161,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b66178f13cc471ae",
+  "active": "08c993facd029f11",
   "lastOpenFiles": [
+    "Security+/CompTIA Security+ Acronyms.md",
+    "Forest.md",
+    "Security+/Terminology, Notes.md",
+    "Hack The Box/Bizness.md",
+    "CheatSheets/radare2.md",
+    "Hack The Box/Validation.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/03_web_application_analysis.md",
     "CheatSheets/radare2-b.md",
-    "Hack The Box/Validation.md",
     "Hack The Box/Mirai.md",
     "Hack The Box/Beep.md",
     "Hack The Box/Active.md",
@@ -200,14 +187,9 @@
     "Hack The Box/Broker.md",
     "CheatSheets/x64_NASM.md",
     "CheatSheets/radare2c.md",
-    "CheatSheets/radare2.md",
     "CheatSheets/Nmap.md",
     "CheatSheets/NC Windows.md",
     "CheatSheets/radare2c",
-    "hacktricks/network-services-pentesting/pentesting-ftp/README.md",
-    "hacktricks/network-services-pentesting/pentesting-ftp/ftp-bounce-download-2oftp-file.md",
-    "hacktricks/network-services-pentesting/pentesting-ftp/ftp-bounce-attack.md",
-    "hacktricks/pentesting-web/login-bypass/sql-login-bypass.md",
     "Untitled.canvas",
     "WebSec Academy",
     "Security+",
