@@ -10,15 +10,13 @@
           {
             "id": "925685c5874ea9f8",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack The Box/Analysis.md",
+                "file": "Hack The Box/Support.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hack The Box/Analysis.md",
+                "file": "Hack The Box/Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hack The Box/Analysis.md",
+                "file": "Hack The Box/Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hack The Box/Analysis.md"
+                "file": "Hack The Box/Support.md"
               }
             }
           }
@@ -163,9 +161,11 @@
   },
   "active": "925685c5874ea9f8",
   "lastOpenFiles": [
+    "Hack The Box/Analysis.md",
+    "Hack The Box/Support.md",
+    "CheatSheets/wireshark.md",
     "Hack The Box/Forest.md",
     "Hack The Box/Sau.md",
-    "Hack The Box/Analysis.md",
     "Security+/CompTIA Security+ Acronyms.md",
     "Awesome-Cybersecurity-Handbooks/handbooks/03_web_application_analysis.md",
     "Hack The Box/Nunchucks.md",
@@ -187,8 +187,6 @@
     "Hack The Box/Timelapse.md",
     "Hack The Box/Stocker.md",
     "Hack The Box/SteamCloud.md",
-    "Hack The Box/Squashed.md",
-    "Hack The Box/Sauna.md",
     "CheatSheets/radare2c",
     "Untitled.canvas",
     "WebSec Academy",

@@ -127,7 +127,7 @@ Version: dev (n/a) - 01/21/24 - Ronnie Flathers @ropnop
 ```
 # 389 - LDAP
 ```
-ldapsearch -H ldap://analysis.htb:389/ -x -s base -b '' "(objectClass=*)" "*" +
+ ldapsearch -H ldap://analysis.htb:389/ -x -s base -b '' "(objectClass=*)" "*" +
 # extended LDIF
 #
 # LDAPv3
